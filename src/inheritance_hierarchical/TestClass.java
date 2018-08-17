@@ -14,6 +14,7 @@ public class TestClass {
 		cc.methodB();
 		cc.methodC();
 	
+	
 		
 		ClassB cb = new ClassB();
 		cb.methodA();
